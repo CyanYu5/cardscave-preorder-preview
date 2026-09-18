@@ -1,0 +1,21 @@
+# Operating system / editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Local credentials and configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Local generated artifacts
+*.log
+__pycache__/
+node_modules/
